@@ -1,0 +1,58 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  .project {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+  }
+  .taswira{ width: 100px;
+    height: 100px;
+
+  }
